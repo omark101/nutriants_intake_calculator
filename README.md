@@ -1,4 +1,4 @@
-# Checkup: Health and Wellness Application
+# Nutriants_intake_calculator: Health and Wellness Application
 
 **Checkup** is a desktop application designed to help users monitor their nutritional intake and activity levels. Built with **Python** and **Tkinter**, it leverages the `customtkinter` library for a modern user interface and integrates with a **Microsoft Access database** to manage user data and provide personalized health recommendations.
 
@@ -49,8 +49,8 @@ pip install customtkinter pyodbc pillow
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/checkup.git
-   cd checkup
+   git clone https://github.com/omark101/nutriants_intake_calculator.git
+   cd nutriants_intake_calculator
    ```
 
 2. Update the **Microsoft Access database path**:
@@ -74,16 +74,6 @@ pip install customtkinter pyodbc pillow
 
 ---
 
-## Screenshots
-
-![Screenshot 1](./screenshots/home.png)  
-*Home screen displaying user metrics.*
-
-![Screenshot 2](./screenshots/input.png)  
-*Data input screen for user details.*
-
----
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
@@ -96,4 +86,4 @@ Contributions are welcome! Feel free to fork the repository, make updates, and s
 
 ---
 
-*Built with 💻 and 💙 by [Your Name].*
+*Built by Omark101.*
