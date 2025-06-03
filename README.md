@@ -67,23 +67,4 @@ pip install customtkinter pyodbc pillow
 
 ---
 
-## Notes
-
-- The application comes with the full source code, including the database and placeholder image files.
-- Ensure you have **read/write access** to the database file location for proper functionality.
-
----
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-## Contribution
-
-Contributions are welcome! Feel free to fork the repository, make updates, and submit a pull request.
-
----
-
 *Built by Omark101.*
