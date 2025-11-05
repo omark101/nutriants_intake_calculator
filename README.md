@@ -67,4 +67,4 @@ pip install customtkinter pyodbc pillow
 
 ---
 
-*Built by Omark101.*
+
